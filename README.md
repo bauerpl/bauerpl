@@ -21,4 +21,4 @@ I was responsible for tech strategy, cloud architecture, scaling product develop
 
 UXPin [was acquired](https://www.prweb.com/releases/xenon_partners_acquires_uxpin_a_leading_collaborative_design_and_prototyping_platform/prweb17173400.htm) in 2020 🎉 by [Xenon Partners](https://xenon.io).
 
-Feel free to reach out to me here [here](https://neubauer.pl) 📫.
+Feel free to reach out to me [here](https://neubauer.pl) 📫.
