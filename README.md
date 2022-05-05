@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Pawel. I have spent over 7 years managing and leading Engineering Team at [UXPin](https://www.uxpin.com) - a design platform that allows product teams and designers to build low and high-fidelity, interactive, realistic web and mobile wireframes and prototypes. 
+My name is Pawel Neubauer and for over 7 years I worked as a CTO of [UXPin](https://www.uxpin.com) - a SaaS platform where you can design and manage your entire UX/UI project in one tool.
 
-I was responsible for tech strategy, cloud architecture, scaling product development, and talent management. We grew from 2 to 25+ engineers and developed the product that supports thousands of happy customers today. 
+During these years I was responsible for tech strategy and platform architecture, but also for leading, managing and scaling the whole UXPin Engineering Team.
 
-UXPin [was acquired](https://www.prweb.com/releases/xenon_partners_acquires_uxpin_a_leading_collaborative_design_and_prototyping_platform/prweb17173400.htm) in 2020 🎉 by [Xenon Partners](https://xenon.io).
+Together we built one of the most advanced UI/UX design platforms on the market with powers of code components, logic, states and design systems.
+
+Thanks to many years of efforts, UXPin ([acquired](https://www.prweb.com/releases/xenon_partners_acquires_uxpin_a_leading_collaborative_design_and_prototyping_platform/prweb17173400.htm) in 2020 🎉 by [Xenon Partners](https://xenon.io).) still supports thousands of happy product teams all over the world.
+
 
 Feel free to reach out to me [here](https://techcopilot.co) 📫.
